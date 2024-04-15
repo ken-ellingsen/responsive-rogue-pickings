@@ -9,7 +9,6 @@ body {
   color: #000000;
 }
 
-/* The width property has been changed to max-width */
 .content-wrapper {
   max-width: 1200px;
   width: 90%;
@@ -48,7 +47,6 @@ p {
 }
 
 /******** HEADER STYLES ********/
-/* The widths are in a percentage! */
 header {
   display: flex;
   justify-content: center;
@@ -91,7 +89,6 @@ header nav ul li a {
 
 /********  MAIN STYLES ********/
 /******** TOP SECTION ********/
-/* The widths are in a percentage! */
 .main-image img {
   width: 100%;
   border-top: 3px solid #77a466;
@@ -123,19 +120,16 @@ header nav ul li a {
 
 .section-one {
   width: 100%;
-  /* width: 29%; */
 }
 
 .section-two {
   width: 100%;
-  /* width: 42%; */
   border-top: 5px solid #eee;
   border-bottom: 5px solid #eee;
 }
 
 .section-three {
   width: 100%;
-  /* width: 29%; */
 }
 
 .bottom-section h3 {
